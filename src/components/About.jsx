@@ -56,7 +56,7 @@ export default function About() {
             <div className="about-meta-list">
               <div className="meta-item">
                 <span className="meta-label">Location</span>
-                <span className="meta-val">India (Available Globally)</span>
+                <span className="meta-val">Kolkata, India</span>
               </div>
               <div className="meta-item">
                 <span className="meta-label">Focus Area</span>

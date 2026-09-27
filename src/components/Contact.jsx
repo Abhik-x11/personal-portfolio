@@ -60,8 +60,8 @@ export default function Contact() {
                 <div className="channel-icon">✉️</div>
                 <div className="channel-details">
                   <span className="channel-label">Email Address</span>
-                  <a href="mailto:abhik.dev@example.com" className="channel-value">
-                    abhik.dev@example.com
+                  <a href="mailto:abhik2062005@gmail.com" className="channel-value">
+                    abhik2062005@gmail.com
                   </a>
                 </div>
               </div>
@@ -70,8 +70,8 @@ export default function Contact() {
                 <div className="channel-icon">📞</div>
                 <div className="channel-details">
                   <span className="channel-label">Phone / WhatsApp</span>
-                  <a href="tel:+919876543210" className="channel-value">
-                    +91 98765 43210
+                  <a href="tel:+918250799170" className="channel-value">
+                    +91 8250799170
                   </a>
                 </div>
               </div>
@@ -81,7 +81,7 @@ export default function Contact() {
                 <div className="channel-details">
                   <span className="channel-label">Location</span>
                   <span className="channel-value">
-                    Bangalore / Kolkata, India
+                    Kolkata, India
                   </span>
                 </div>
               </div>
