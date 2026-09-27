@@ -100,7 +100,7 @@ export default function Contact() {
             <div className="social-links-box">
               <p className="social-title">Connect on Professional Networks</p>
               <div className="social-buttons">
-                <a href="https://github.com" target="_blank" rel="noreferrer" className="social-btn">
+                <a href="https://github.com/Abhik-x11" target="_blank" rel="noreferrer" className="social-btn">
                   <span>GitHub</span> ↗
                 </a>
                 <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="social-btn">

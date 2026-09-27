@@ -10,7 +10,7 @@ export default function Projects() {
       description: 'A responsive, modular personal portfolio built with React 19, JSX, and customized external CSS following component-driven architecture.',
       tech: ['React.js', 'JSX', 'External CSS', 'Vite', 'Responsive'],
       demoLink: '#home',
-      githubLink: 'https://github.com'
+      githubLink: 'https://github.com/Abhik-x11/personal-portfolio'
     },
     {
       title: 'TaskFlow Agile Kanban Board',
